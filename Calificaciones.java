@@ -1,3 +1,4 @@
+//1) hacer un programa que calcule e improma la suma de cuatro calificaciones 
 
 import javax.swing.JOptionPane;
 

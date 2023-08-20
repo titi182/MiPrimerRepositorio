@@ -1,4 +1,5 @@
-
+//2) pablo tiene x cantidad de dinero, jose tiene el doble de lo que tiene pablo , miguel tiene la mita de lo que tiene jose y pablo juntos
+//realice un programa para saber cuanto dinero tiene cada uno 
 import javax.swing.JOptionPane;
 
 /**
